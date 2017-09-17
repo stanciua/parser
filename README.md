@@ -1,2 +1,2 @@
 # parser
-POC parser for ISO8583-87 format
+POC NOM parser for ISO8583-87 format
